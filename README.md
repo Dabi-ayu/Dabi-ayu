@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dabi-ayu
 - 👀 I’m interested in software development
-- 🌱 I’m currently product design and web developement
+- 🌱 I’m currently into product design and web developement
 - 💞️ I’m looking to collaborate on tech related fields
 - 📫 How to reach me ...
 
